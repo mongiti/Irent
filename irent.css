@@ -24,7 +24,11 @@ body {
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 26.4px;
-	color:gold;
+	color:orange;
 	background: rgba(0,0,0, 0.7);
 
+}
+
+h1 .ityped {
+	color:gold;
 }
