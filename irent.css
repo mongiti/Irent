@@ -1,0 +1,30 @@
+body {
+  background: url("images/house.jpg")  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   height: 450px;
+   padding:0;
+   margin:0;
+}
+
+
+ h1{
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	margin: 0 auto;
+	padding: 60px;
+	width: 100%;
+	text-align: center;
+	font-family: Nunito;
+	font-size: 74px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+	color:gold;
+	background: rgba(0,0,0, 0.7);
+
+}
