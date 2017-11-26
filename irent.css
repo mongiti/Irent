@@ -15,7 +15,7 @@ body {
 	top:50%;
 	transform: translateY(-50%);
 	margin: 0 auto;
-	padding: 60px;
+	padding: 90px;
 	width: 100%;
 	text-align: center;
 	font-family: Nunito;
@@ -29,6 +29,31 @@ body {
 
 }
 
+
+.boxes {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  background: rgba(0,0,0, 0.125);
+  margin-top: 30px;
+  margin-right: 120px;
+  
+}
+
+.boxes>div {
+  background-color: #f1f1f1;
+  margin: 50px auto;
+  padding:60px;
+  font-size: 50px;
+  text-align: center;
+  color:#000;
+  border-radius: 10px;
+  width: 110px;
+  height: 50px;
+  
+}
+
 h1 .ityped {
 	color:gold;
 }
+
