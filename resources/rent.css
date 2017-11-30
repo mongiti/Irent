@@ -1,0 +1,43 @@
+.btn_submit{
+   margin: 10px 0 0 160px;
+   width: 300px;
+
+}
+.jumbotron{
+  background: url("../images/Bg.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size: cover;
+     
+}
+.light{
+  color: gold;
+}
+.container {
+   background: rgba(0, 0, 0, .6);
+   padding: -30px 0 10px 0;
+}
+
+.card-body{
+  border:1px #334 solid;
+}
+
+.circle-text {
+display: table-cell;
+height: 200px; /*change this and the width
+for the size of your initial circle*/
+width: 200px;
+text-align: center;
+vertical-align: middle;
+border-radius: 50%;
+/*make it pretty*/
+background: #000;
+color: #fff;
+font: 36px "josefin sans", arial; /*change this
+for font-size and font-family*/
+}
+
+.card-body{
+  margin: 18px;
+}
